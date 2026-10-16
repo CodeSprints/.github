@@ -8,7 +8,9 @@
 - tailwindcss
 - varius libs and tools
 - tauriUI(optional)
-
+### It also contains repositories of simple and, at times, complex web-based games written using the following technologies
+- html, css, js
+- using pixi,three,phaser,anime,gsap.js
 ## Installation
 
 ```text
